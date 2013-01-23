@@ -1,0 +1,4 @@
+clean
+=====
+
+An Alfred theme.
