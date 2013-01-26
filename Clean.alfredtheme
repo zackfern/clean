@@ -7,17 +7,17 @@
 	<key>borderColor</key>
 	<string>rgba(63,192,0,0.00)</string>
 	<key>dividerLineColor</key>
-	<string>rgba(69,69,69,0.40)</string>
+	<string>rgba(44,44,44,1.00)</string>
 	<key>imagePrefix</key>
 	<string>light</string>
 	<key>resultShortcutColor</key>
-	<string>rgba(166,166,166,1.00)</string>
+	<string>rgba(170,170,170,1.00)</string>
 	<key>resultSubtextColor</key>
-	<string>rgba(166,166,166,1.00)</string>
+	<string>rgba(170,170,170,1.00)</string>
 	<key>resultTextColor</key>
-	<string>rgba(166,166,166,1.00)</string>
+	<string>rgba(0,0,0,0.50)</string>
 	<key>scrollbarColor</key>
-	<string>rgba(191,191,191,0.40)</string>
+	<string>rgba(170,170,170,1.00)</string>
 	<key>searchFieldBackgroundColor</key>
 	<string>rgba(244,243,241,1.00)</string>
 	<key>searchFieldTextColor</key>
